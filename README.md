@@ -1,2 +1,3 @@
 # FirstAidApp
-India's official first aid application.
+
+India's Official First Aid App for Indian Red Cross Society.
